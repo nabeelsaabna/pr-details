@@ -1,3 +1,3 @@
 module github.com/nabeelys/pr-details
 
-go 1.17
+go 1.19
